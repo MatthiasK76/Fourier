@@ -16,6 +16,7 @@ let input_dt = 0;
 let input_coeff = [];
 let check_curves = [];
 
+
 function reset() {
     time = 0;
     wave = [];
