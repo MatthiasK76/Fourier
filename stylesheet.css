@@ -1,0 +1,15 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div {
+    margin-top: 1ex;
+    margin-bottom: 0.5ex;
+}
+span {
+    margin-left: 1ch;
+    margin-right: 0.2ch;
+}
+input {
+    margin-left: 1ch;
+    margin-right: 0.2ch;
+}
